@@ -66,7 +66,7 @@ function App() {
             value={area1Text}
             readOnly
             autoSize={{ minRows: 8, maxRows: 16 }}
-            style={{ width: "800px" }}
+            style={{ width: "801px" }}
             rows={8}
             placeholder="Лицензия"
           />
